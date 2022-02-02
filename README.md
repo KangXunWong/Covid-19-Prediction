@@ -1,4 +1,4 @@
-# Covid-19
+# Covid-19 Prediction
 
 Dataset from Kaggle (https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 
